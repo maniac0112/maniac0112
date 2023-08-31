@@ -1,6 +1,5 @@
 - 👋 Hey there!, I’m Praveen Singh, pursuing Electrical Engineering @IIT Delhi, India
-- 👀 I’m interested in data science, Algorithms and some frontend web development
-- 🌱 I’m currently exploring machine learning
+- 🌱 I’m interested in Software Development, algorithms and some machine learning
 - 📫 For reaching out to me, you can always drop an email at praveen22711222@gmail.com
 
 <!---
