@@ -1,4 +1,4 @@
-- 👋 Hey there!, I’m Praveen Singh, pursuing Electrical Engineering @IIT Delhi, India
+- 👋 Hey there! I’m Praveen Singh, pursuing Electrical Engineering @IIT Delhi, India
 - 🌱 I’m interested in Software Development, algorithms and some machine learning
 - 📫 For reaching out to me, you can always drop an email at praveen22711222@gmail.com
 
