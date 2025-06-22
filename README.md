@@ -1,9 +1,6 @@
 - 👋 Hey there! I’m Praveen Singh, 2024 graduate from IIT Delhi.
-- 🌱 I’m interested in Software Development and core Computer Science.
-- My interests lie in:
-  ⚙️ Operating Systems, C++, Networking, and Security
-  🚀 High-Performance Computing and Low-Latency Systems
-  🧠 Data Structures, Algorithms, and Competitive Programming
+- 🌱 I’m interested in Software Development and core Computer Science. Looking forward to learn more about the nitty-gritty of software engineering and core computer science.
+- 🛠️ Skilled in C++. I enjoy solving algorithmic problems and have a keen interest in competitive programming.
 - 📫 For reaching out to me, you can drop an email at praveensingh.iitd@gmail.com
 
 <!---
